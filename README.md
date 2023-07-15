@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Midade 
 - 🌱 I'm currently learning Laravel, Design patterns, and PHP unit tests.
-- 💬 Ask me about Laravel and Js .
+- 💬 Ask me about Php and Js .
 - 📫 How to reach me: monasabrykhafagi2018@gmail.com
 
 
